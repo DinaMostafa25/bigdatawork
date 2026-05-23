@@ -283,7 +283,7 @@ The consumer subscribes to:
 Run:
 
 ```bash
-py multi_consumer.py
+py multi_topic_consumer.py
 ```
 
 The consumer:
