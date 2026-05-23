@@ -364,5 +364,52 @@ kafka-consumer-groups \
 --describe \
 --group analytics-group
 ```
+# Kafka + Spark Streaming Project
 
+## Architecture
+
+Python Producers → Kafka → Spark Structured Streaming
+
+## Topics
+
+- orders
+- payments
+- user_activity
+
+## Tech Stack
+
+- Kafka (Docker)
+- Kafka UI
+- Python
+- PySpark
+- WSL Ubuntu
+- JSON Streaming
+
+## Kafka Configuration
+
+(KRaft mode explanation)
+
+## Producers
+
+(explain JSON producers)
+
+## Spark Structured Streaming
+
+(explain Kafka integration)
+
+## Compatibility Notes
+
+(Java/Spark versions)
+
+## Common Errors and Fixes
+
+(real debugging notes)
+
+## Future Improvements
+
+- joins
+- aggregations
+- dashboards
+- parquet sink
+- Delta Lake
 
