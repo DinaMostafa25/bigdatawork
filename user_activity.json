@@ -1,0 +1,322 @@
+[
+    {
+        "activity_id": 1,
+        "user_id": 101,
+        "event": "login",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:00:00"
+    },
+    {
+        "activity_id": 2,
+        "user_id": 102,
+        "event": "search",
+        "device": "desktop",
+        "country": "UAE",
+        "timestamp": "2026-05-23 12:01:00"
+    },
+    {
+        "activity_id": 3,
+        "user_id": 103,
+        "event": "view_product",
+        "device": "tablet",
+        "country": "Saudi Arabia",
+        "timestamp": "2026-05-23 12:02:00"
+    },
+    {
+        "activity_id": 4,
+        "user_id": 104,
+        "event": "add_to_cart",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:03:00"
+    },
+    {
+        "activity_id": 5,
+        "user_id": 105,
+        "event": "checkout",
+        "device": "desktop",
+        "country": "Jordan",
+        "timestamp": "2026-05-23 12:04:00"
+    },
+    {
+        "activity_id": 6,
+        "user_id": 106,
+        "event": "logout",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:05:00"
+    },
+    {
+        "activity_id": 7,
+        "user_id": 107,
+        "event": "login",
+        "device": "tablet",
+        "country": "Kuwait",
+        "timestamp": "2026-05-23 12:06:00"
+    },
+    {
+        "activity_id": 8,
+        "user_id": 108,
+        "event": "view_product",
+        "device": "desktop",
+        "country": "Qatar",
+        "timestamp": "2026-05-23 12:07:00"
+    },
+    {
+        "activity_id": 9,
+        "user_id": 109,
+        "event": "search",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:08:00"
+    },
+    {
+        "activity_id": 10,
+        "user_id": 110,
+        "event": "add_to_wishlist",
+        "device": "desktop",
+        "country": "Bahrain",
+        "timestamp": "2026-05-23 12:09:00"
+    },
+    {
+        "activity_id": 11,
+        "user_id": 111,
+        "event": "login",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:10:00"
+    },
+    {
+        "activity_id": 12,
+        "user_id": 112,
+        "event": "checkout",
+        "device": "tablet",
+        "country": "Saudi Arabia",
+        "timestamp": "2026-05-23 12:11:00"
+    },
+    {
+        "activity_id": 13,
+        "user_id": 113,
+        "event": "search",
+        "device": "desktop",
+        "country": "UAE",
+        "timestamp": "2026-05-23 12:12:00"
+    },
+    {
+        "activity_id": 14,
+        "user_id": 114,
+        "event": "view_product",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:13:00"
+    },
+    {
+        "activity_id": 15,
+        "user_id": 115,
+        "event": "logout",
+        "device": "desktop",
+        "country": "Jordan",
+        "timestamp": "2026-05-23 12:14:00"
+    },
+    {
+        "activity_id": 16,
+        "user_id": 116,
+        "event": "login",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:15:00"
+    },
+    {
+        "activity_id": 17,
+        "user_id": 117,
+        "event": "add_to_cart",
+        "device": "tablet",
+        "country": "Kuwait",
+        "timestamp": "2026-05-23 12:16:00"
+    },
+    {
+        "activity_id": 18,
+        "user_id": 118,
+        "event": "checkout",
+        "device": "desktop",
+        "country": "Qatar",
+        "timestamp": "2026-05-23 12:17:00"
+    },
+    {
+        "activity_id": 19,
+        "user_id": 119,
+        "event": "search",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:18:00"
+    },
+    {
+        "activity_id": 20,
+        "user_id": 120,
+        "event": "view_product",
+        "device": "desktop",
+        "country": "Saudi Arabia",
+        "timestamp": "2026-05-23 12:19:00"
+    },
+    {
+        "activity_id": 21,
+        "user_id": 121,
+        "event": "login",
+        "device": "tablet",
+        "country": "UAE",
+        "timestamp": "2026-05-23 12:20:00"
+    },
+    {
+        "activity_id": 22,
+        "user_id": 122,
+        "event": "add_to_wishlist",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:21:00"
+    },
+    {
+        "activity_id": 23,
+        "user_id": 123,
+        "event": "checkout",
+        "device": "desktop",
+        "country": "Jordan",
+        "timestamp": "2026-05-23 12:22:00"
+    },
+    {
+        "activity_id": 24,
+        "user_id": 124,
+        "event": "logout",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:23:00"
+    },
+    {
+        "activity_id": 25,
+        "user_id": 125,
+        "event": "search",
+        "device": "tablet",
+        "country": "Bahrain",
+        "timestamp": "2026-05-23 12:24:00"
+    },
+    {
+        "activity_id": 26,
+        "user_id": 126,
+        "event": "view_product",
+        "device": "desktop",
+        "country": "Qatar",
+        "timestamp": "2026-05-23 12:25:00"
+    },
+    {
+        "activity_id": 27,
+        "user_id": 127,
+        "event": "login",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:26:00"
+    },
+    {
+        "activity_id": 28,
+        "user_id": 128,
+        "event": "add_to_cart",
+        "device": "desktop",
+        "country": "Saudi Arabia",
+        "timestamp": "2026-05-23 12:27:00"
+    },
+    {
+        "activity_id": 29,
+        "user_id": 129,
+        "event": "checkout",
+        "device": "tablet",
+        "country": "UAE",
+        "timestamp": "2026-05-23 12:28:00"
+    },
+    {
+        "activity_id": 30,
+        "user_id": 130,
+        "event": "logout",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:29:00"
+    },
+    {
+        "activity_id": 31,
+        "user_id": 131,
+        "event": "search",
+        "device": "desktop",
+        "country": "Jordan",
+        "timestamp": "2026-05-23 12:30:00"
+    },
+    {
+        "activity_id": 32,
+        "user_id": 132,
+        "event": "view_product",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:31:00"
+    },
+    {
+        "activity_id": 33,
+        "user_id": 133,
+        "event": "login",
+        "device": "tablet",
+        "country": "Kuwait",
+        "timestamp": "2026-05-23 12:32:00"
+    },
+    {
+        "activity_id": 34,
+        "user_id": 134,
+        "event": "checkout",
+        "device": "desktop",
+        "country": "Saudi Arabia",
+        "timestamp": "2026-05-23 12:33:00"
+    },
+    {
+        "activity_id": 35,
+        "user_id": 135,
+        "event": "add_to_wishlist",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:34:00"
+    },
+    {
+        "activity_id": 36,
+        "user_id": 136,
+        "event": "logout",
+        "device": "desktop",
+        "country": "Qatar",
+        "timestamp": "2026-05-23 12:35:00"
+    },
+    {
+        "activity_id": 37,
+        "user_id": 137,
+        "event": "login",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:36:00"
+    },
+    {
+        "activity_id": 38,
+        "user_id": 138,
+        "event": "search",
+        "device": "tablet",
+        "country": "UAE",
+        "timestamp": "2026-05-23 12:37:00"
+    },
+    {
+        "activity_id": 39,
+        "user_id": 139,
+        "event": "view_product",
+        "device": "desktop",
+        "country": "Saudi Arabia",
+        "timestamp": "2026-05-23 12:38:00"
+    },
+    {
+        "activity_id": 40,
+        "user_id": 140,
+        "event": "checkout",
+        "device": "mobile",
+        "country": "Egypt",
+        "timestamp": "2026-05-23 12:39:00"
+    }
+]
