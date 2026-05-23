@@ -1,0 +1,482 @@
+[
+    {
+        "order_id": 1,
+        "customer": "Dina",
+        "product": "Laptop",
+        "quantity": 1,
+        "price": 1200,
+        "timestamp": "2026-05-23 10:00:00"
+    },
+    {
+        "order_id": 2,
+        "customer": "Ahmed",
+        "product": "Phone",
+        "quantity": 2,
+        "price": 800,
+        "timestamp": "2026-05-23 10:01:00"
+    },
+    {
+        "order_id": 3,
+        "customer": "Sara",
+        "product": "Headphones",
+        "quantity": 1,
+        "price": 150,
+        "timestamp": "2026-05-23 10:02:00"
+    },
+    {
+        "order_id": 4,
+        "customer": "Omar",
+        "product": "Monitor",
+        "quantity": 1,
+        "price": 400,
+        "timestamp": "2026-05-23 10:03:00"
+    },
+    {
+        "order_id": 5,
+        "customer": "Mona",
+        "product": "Keyboard",
+        "quantity": 3,
+        "price": 70,
+        "timestamp": "2026-05-23 10:04:00"
+    },
+    {
+        "order_id": 6,
+        "customer": "Ali",
+        "product": "Mouse",
+        "quantity": 2,
+        "price": 35,
+        "timestamp": "2026-05-23 10:05:00"
+    },
+    {
+        "order_id": 7,
+        "customer": "Nour",
+        "product": "Tablet",
+        "quantity": 1,
+        "price": 500,
+        "timestamp": "2026-05-23 10:06:00"
+    },
+    {
+        "order_id": 8,
+        "customer": "Hassan",
+        "product": "Printer",
+        "quantity": 1,
+        "price": 220,
+        "timestamp": "2026-05-23 10:07:00"
+    },
+    {
+        "order_id": 9,
+        "customer": "Yara",
+        "product": "Camera",
+        "quantity": 1,
+        "price": 950,
+        "timestamp": "2026-05-23 10:08:00"
+    },
+    {
+        "order_id": 10,
+        "customer": "Khaled",
+        "product": "Microphone",
+        "quantity": 2,
+        "price": 110,
+        "timestamp": "2026-05-23 10:09:00"
+    },
+    {
+        "order_id": 11,
+        "customer": "Laila",
+        "product": "Speaker",
+        "quantity": 1,
+        "price": 300,
+        "timestamp": "2026-05-23 10:10:00"
+    },
+    {
+        "order_id": 12,
+        "customer": "Tamer",
+        "product": "SSD",
+        "quantity": 2,
+        "price": 140,
+        "timestamp": "2026-05-23 10:11:00"
+    },
+    {
+        "order_id": 13,
+        "customer": "Rania",
+        "product": "RAM",
+        "quantity": 4,
+        "price": 90,
+        "timestamp": "2026-05-23 10:12:00"
+    },
+    {
+        "order_id": 14,
+        "customer": "Mostafa",
+        "product": "GPU",
+        "quantity": 1,
+        "price": 1500,
+        "timestamp": "2026-05-23 10:13:00"
+    },
+    {
+        "order_id": 15,
+        "customer": "Fatma",
+        "product": "CPU",
+        "quantity": 1,
+        "price": 600,
+        "timestamp": "2026-05-23 10:14:00"
+    },
+    {
+        "order_id": 16,
+        "customer": "Mahmoud",
+        "product": "Motherboard",
+        "quantity": 1,
+        "price": 350,
+        "timestamp": "2026-05-23 10:15:00"
+    },
+    {
+        "order_id": 17,
+        "customer": "Salma",
+        "product": "Webcam",
+        "quantity": 2,
+        "price": 85,
+        "timestamp": "2026-05-23 10:16:00"
+    },
+    {
+        "order_id": 18,
+        "customer": "Karim",
+        "product": "Power Bank",
+        "quantity": 3,
+        "price": 45,
+        "timestamp": "2026-05-23 10:17:00"
+    },
+    {
+        "order_id": 19,
+        "customer": "Heba",
+        "product": "Smart Watch",
+        "quantity": 1,
+        "price": 260,
+        "timestamp": "2026-05-23 10:18:00"
+    },
+    {
+        "order_id": 20,
+        "customer": "Amr",
+        "product": "Router",
+        "quantity": 1,
+        "price": 120,
+        "timestamp": "2026-05-23 10:19:00"
+    },
+    {
+        "order_id": 21,
+        "customer": "Mariam",
+        "product": "Projector",
+        "quantity": 1,
+        "price": 700,
+        "timestamp": "2026-05-23 10:20:00"
+    },
+    {
+        "order_id": 22,
+        "customer": "Youssef",
+        "product": "Drone",
+        "quantity": 1,
+        "price": 1800,
+        "timestamp": "2026-05-23 10:21:00"
+    },
+    {
+        "order_id": 23,
+        "customer": "Nada",
+        "product": "VR Headset",
+        "quantity": 1,
+        "price": 950,
+        "timestamp": "2026-05-23 10:22:00"
+    },
+    {
+        "order_id": 24,
+        "customer": "Ibrahim",
+        "product": "External HDD",
+        "quantity": 2,
+        "price": 130,
+        "timestamp": "2026-05-23 10:23:00"
+    },
+    {
+        "order_id": 25,
+        "customer": "Aya",
+        "product": "USB Flash",
+        "quantity": 5,
+        "price": 20,
+        "timestamp": "2026-05-23 10:24:00"
+    },
+    {
+        "order_id": 26,
+        "customer": "Samir",
+        "product": "Gaming Chair",
+        "quantity": 1,
+        "price": 450,
+        "timestamp": "2026-05-23 10:25:00"
+    },
+    {
+        "order_id": 27,
+        "customer": "Reem",
+        "product": "Desk Lamp",
+        "quantity": 2,
+        "price": 40,
+        "timestamp": "2026-05-23 10:26:00"
+    },
+    {
+        "order_id": 28,
+        "customer": "Hany",
+        "product": "Ethernet Cable",
+        "quantity": 6,
+        "price": 10,
+        "timestamp": "2026-05-23 10:27:00"
+    },
+    {
+        "order_id": 29,
+        "customer": "Nadine",
+        "product": "Cooling Fan",
+        "quantity": 3,
+        "price": 25,
+        "timestamp": "2026-05-23 10:28:00"
+    },
+    {
+        "order_id": 30,
+        "customer": "Adel",
+        "product": "Graphics Tablet",
+        "quantity": 1,
+        "price": 380,
+        "timestamp": "2026-05-23 10:29:00"
+    },
+    {
+        "order_id": 31,
+        "customer": "Ramy",
+        "product": "Smart TV",
+        "quantity": 1,
+        "price": 1400,
+        "timestamp": "2026-05-23 10:30:00"
+    },
+    {
+        "order_id": 32,
+        "customer": "Nourhan",
+        "product": "Bluetooth Speaker",
+        "quantity": 2,
+        "price": 95,
+        "timestamp": "2026-05-23 10:31:00"
+    },
+    {
+        "order_id": 33,
+        "customer": "Hossam",
+        "product": "Wireless Mouse",
+        "quantity": 1,
+        "price": 45,
+        "timestamp": "2026-05-23 10:32:00"
+    },
+    {
+        "order_id": 34,
+        "customer": "Farah",
+        "product": "Laptop Stand",
+        "quantity": 2,
+        "price": 60,
+        "timestamp": "2026-05-23 10:33:00"
+    },
+    {
+        "order_id": 35,
+        "customer": "Sherif",
+        "product": "Mechanical Keyboard",
+        "quantity": 1,
+        "price": 180,
+        "timestamp": "2026-05-23 10:34:00"
+    },
+    {
+        "order_id": 36,
+        "customer": "Jana",
+        "product": "Gaming Mouse",
+        "quantity": 1,
+        "price": 85,
+        "timestamp": "2026-05-23 10:35:00"
+    },
+    {
+        "order_id": 37,
+        "customer": "Wael",
+        "product": "Network Switch",
+        "quantity": 1,
+        "price": 230,
+        "timestamp": "2026-05-23 10:36:00"
+    },
+    {
+        "order_id": 38,
+        "customer": "Asmaa",
+        "product": "USB Hub",
+        "quantity": 3,
+        "price": 25,
+        "timestamp": "2026-05-23 10:37:00"
+    },
+    {
+        "order_id": 39,
+        "customer": "Bassem",
+        "product": "Laptop Bag",
+        "quantity": 1,
+        "price": 75,
+        "timestamp": "2026-05-23 10:38:00"
+    },
+    {
+        "order_id": 40,
+        "customer": "Hager",
+        "product": "Desk Microphone",
+        "quantity": 1,
+        "price": 130,
+        "timestamp": "2026-05-23 10:39:00"
+    },
+    {
+        "order_id": 41,
+        "customer": "Tariq",
+        "product": "HDMI Cable",
+        "quantity": 4,
+        "price": 15,
+        "timestamp": "2026-05-23 10:40:00"
+    },
+    {
+        "order_id": 42,
+        "customer": "Rasha",
+        "product": "Ring Light",
+        "quantity": 1,
+        "price": 90,
+        "timestamp": "2026-05-23 10:41:00"
+    },
+    {
+        "order_id": 43,
+        "customer": "Islam",
+        "product": "Smartphone",
+        "quantity": 1,
+        "price": 1100,
+        "timestamp": "2026-05-23 10:42:00"
+    },
+    {
+        "order_id": 44,
+        "customer": "Doaa",
+        "product": "Tablet Cover",
+        "quantity": 2,
+        "price": 35,
+        "timestamp": "2026-05-23 10:43:00"
+    },
+    {
+        "order_id": 45,
+        "customer": "Maged",
+        "product": "Portable SSD",
+        "quantity": 1,
+        "price": 210,
+        "timestamp": "2026-05-23 10:44:00"
+    },
+    {
+        "order_id": 46,
+        "customer": "Ghada",
+        "product": "Fitness Tracker",
+        "quantity": 1,
+        "price": 170,
+        "timestamp": "2026-05-23 10:45:00"
+    },
+    {
+        "order_id": 47,
+        "customer": "Saad",
+        "product": "Gaming Monitor",
+        "quantity": 1,
+        "price": 650,
+        "timestamp": "2026-05-23 10:46:00"
+    },
+    {
+        "order_id": 48,
+        "customer": "Habiba",
+        "product": "Stylus Pen",
+        "quantity": 2,
+        "price": 55,
+        "timestamp": "2026-05-23 10:47:00"
+    },
+    {
+        "order_id": 49,
+        "customer": "Yassin",
+        "product": "Wireless Charger",
+        "quantity": 3,
+        "price": 40,
+        "timestamp": "2026-05-23 10:48:00"
+    },
+    {
+        "order_id": 50,
+        "customer": "Nermin",
+        "product": "LED Monitor",
+        "quantity": 1,
+        "price": 320,
+        "timestamp": "2026-05-23 10:49:00"
+    },
+    {
+        "order_id": 51,
+        "customer": "Fouad",
+        "product": "Desktop PC",
+        "quantity": 1,
+        "price": 2000,
+        "timestamp": "2026-05-23 10:50:00"
+    },
+    {
+        "order_id": 52,
+        "customer": "Salim",
+        "product": "Gaming Headset",
+        "quantity": 2,
+        "price": 140,
+        "timestamp": "2026-05-23 10:51:00"
+    },
+    {
+        "order_id": 53,
+        "customer": "Mira",
+        "product": "Camera Lens",
+        "quantity": 1,
+        "price": 780,
+        "timestamp": "2026-05-23 10:52:00"
+    },
+    {
+        "order_id": 54,
+        "customer": "Kareem",
+        "product": "Phone Tripod",
+        "quantity": 1,
+        "price": 65,
+        "timestamp": "2026-05-23 10:53:00"
+    },
+    {
+        "order_id": 55,
+        "customer": "Lina",
+        "product": "Smart Doorbell",
+        "quantity": 1,
+        "price": 250,
+        "timestamp": "2026-05-23 10:54:00"
+    },
+    {
+        "order_id": 56,
+        "customer": "Hazem",
+        "product": "WiFi Extender",
+        "quantity": 2,
+        "price": 80,
+        "timestamp": "2026-05-23 10:55:00"
+    },
+    {
+        "order_id": 57,
+        "customer": "Rim",
+        "product": "Portable Monitor",
+        "quantity": 1,
+        "price": 410,
+        "timestamp": "2026-05-23 10:56:00"
+    },
+    {
+        "order_id": 58,
+        "customer": "Adham",
+        "product": "Noise Cancelling Earbuds",
+        "quantity": 1,
+        "price": 230,
+        "timestamp": "2026-05-23 10:57:00"
+    },
+    {
+        "order_id": 59,
+        "customer": "Malak",
+        "product": "Action Camera",
+        "quantity": 1,
+        "price": 560,
+        "timestamp": "2026-05-23 10:58:00"
+    },
+    {
+        "order_id": 60,
+        "customer": "Ziad",
+        "product": "Smart Home Hub",
+        "quantity": 1,
+        "price": 340,
+        "timestamp": "2026-05-23 10:59:00"
+    }
+]
