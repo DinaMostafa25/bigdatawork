@@ -10,21 +10,37 @@ producer = KafkaProducer(
 )
 
 
-order_id = 1
+# order_id = 1
 
-while True:
+# while True:
 
-    order={
-        "order_id": order_id,
-        "customer": f"customer_{order_id}",
-        "product": "Laptop",
-        "quantity": 1,
-        "price": 1000,
-        "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    }
+#     order={
+#         "order_id": order_id,
+#         "customer": f"customer_{order_id}",
+#         "product": "Laptop",
+#         "quantity": 1,
+#         "price": 1000,
+#         "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+#     }
 
 
-    producer.send("orders", value=order)
-    print(f"Sent: {order}")
-    order_id += 1
-    time.sleep(2)
+#     producer.send("orders", value=order)
+#     print(f"Sent: {order}")
+#     order_id += 1
+#     time.sleep(2)
+
+with open ("orders.json","r") as file:
+
+    orders = json.load(file)
+
+    for order in orders:
+
+        producer.send("orders", value=order)
+
+        print(f"sent:{order}....")
+
+        time.sleep(2)
+
+producer.flush()
+
+print("All messages sent successfully...")
