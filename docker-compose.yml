@@ -1,3 +1,6 @@
+name :
+  kafka_work
+
 services:
   kafka:
     image: confluentinc/cp-kafka:7.6.1
@@ -26,6 +29,7 @@ services:
       # General
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
       KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+      KAFKA_DELETE_TOPIC_ENABLE: "true"
       KAFKA_NUM_PARTITIONS: 3
       CLUSTER_ID: "Mk3OEYBSD38SnwHhSGZ5nA"
 
