@@ -3,7 +3,7 @@ import json
 
 consumer = KafkaConsumer(
     'orders',
-    bootstrap_servers ='localhost:9094',
+    bootstp_servers ='localhost:9094',
     auto_offset_reset='earliest' ,
     group_id='order_group',
     value_deserializer=lambda x: json.loads(x.decode('utf-8'))

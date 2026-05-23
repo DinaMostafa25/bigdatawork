@@ -1,6 +1,7 @@
 [
     {
         "order_id": 1,
+        "user_id": 101,
         "customer": "Dina",
         "product": "Laptop",
         "quantity": 1,
@@ -9,6 +10,7 @@
     },
     {
         "order_id": 2,
+        "user_id": 102,
         "customer": "Ahmed",
         "product": "Phone",
         "quantity": 2,
@@ -17,6 +19,7 @@
     },
     {
         "order_id": 3,
+        "user_id": 103,
         "customer": "Sara",
         "product": "Headphones",
         "quantity": 1,
@@ -25,6 +28,7 @@
     },
     {
         "order_id": 4,
+        "user_id": 104,
         "customer": "Omar",
         "product": "Monitor",
         "quantity": 1,
@@ -33,6 +37,7 @@
     },
     {
         "order_id": 5,
+        "user_id": 105,
         "customer": "Mona",
         "product": "Keyboard",
         "quantity": 3,
@@ -41,6 +46,7 @@
     },
     {
         "order_id": 6,
+        "user_id": 106,
         "customer": "Ali",
         "product": "Mouse",
         "quantity": 2,
@@ -49,6 +55,7 @@
     },
     {
         "order_id": 7,
+        "user_id": 107,
         "customer": "Nour",
         "product": "Tablet",
         "quantity": 1,
@@ -57,6 +64,7 @@
     },
     {
         "order_id": 8,
+        "user_id": 108,
         "customer": "Hassan",
         "product": "Printer",
         "quantity": 1,
@@ -65,6 +73,7 @@
     },
     {
         "order_id": 9,
+        "user_id": 109,
         "customer": "Yara",
         "product": "Camera",
         "quantity": 1,
@@ -73,6 +82,7 @@
     },
     {
         "order_id": 10,
+        "user_id": 110,
         "customer": "Khaled",
         "product": "Microphone",
         "quantity": 2,
@@ -81,6 +91,7 @@
     },
     {
         "order_id": 11,
+        "user_id": 111,
         "customer": "Laila",
         "product": "Speaker",
         "quantity": 1,
@@ -89,6 +100,7 @@
     },
     {
         "order_id": 12,
+        "user_id": 112,
         "customer": "Tamer",
         "product": "SSD",
         "quantity": 2,
@@ -97,6 +109,7 @@
     },
     {
         "order_id": 13,
+        "user_id": 113,
         "customer": "Rania",
         "product": "RAM",
         "quantity": 4,
@@ -105,6 +118,7 @@
     },
     {
         "order_id": 14,
+        "user_id": 114,
         "customer": "Mostafa",
         "product": "GPU",
         "quantity": 1,
@@ -113,6 +127,7 @@
     },
     {
         "order_id": 15,
+        "user_id": 115,
         "customer": "Fatma",
         "product": "CPU",
         "quantity": 1,
@@ -121,6 +136,7 @@
     },
     {
         "order_id": 16,
+        "user_id": 116,
         "customer": "Mahmoud",
         "product": "Motherboard",
         "quantity": 1,
@@ -129,6 +145,7 @@
     },
     {
         "order_id": 17,
+        "user_id": 117,
         "customer": "Salma",
         "product": "Webcam",
         "quantity": 2,
@@ -137,6 +154,7 @@
     },
     {
         "order_id": 18,
+        "user_id": 118,
         "customer": "Karim",
         "product": "Power Bank",
         "quantity": 3,
@@ -145,6 +163,7 @@
     },
     {
         "order_id": 19,
+        "user_id": 119,
         "customer": "Heba",
         "product": "Smart Watch",
         "quantity": 1,
@@ -153,6 +172,7 @@
     },
     {
         "order_id": 20,
+        "user_id": 120,
         "customer": "Amr",
         "product": "Router",
         "quantity": 1,
@@ -161,6 +181,7 @@
     },
     {
         "order_id": 21,
+        "user_id": 121,
         "customer": "Mariam",
         "product": "Projector",
         "quantity": 1,
@@ -169,6 +190,7 @@
     },
     {
         "order_id": 22,
+        "user_id": 122,
         "customer": "Youssef",
         "product": "Drone",
         "quantity": 1,
@@ -177,6 +199,7 @@
     },
     {
         "order_id": 23,
+        "user_id": 123,
         "customer": "Nada",
         "product": "VR Headset",
         "quantity": 1,
@@ -185,6 +208,7 @@
     },
     {
         "order_id": 24,
+        "user_id": 124,
         "customer": "Ibrahim",
         "product": "External HDD",
         "quantity": 2,
@@ -193,6 +217,7 @@
     },
     {
         "order_id": 25,
+        "user_id": 125,
         "customer": "Aya",
         "product": "USB Flash",
         "quantity": 5,
@@ -201,6 +226,7 @@
     },
     {
         "order_id": 26,
+        "user_id": 126,
         "customer": "Samir",
         "product": "Gaming Chair",
         "quantity": 1,
@@ -209,6 +235,7 @@
     },
     {
         "order_id": 27,
+        "user_id": 127,
         "customer": "Reem",
         "product": "Desk Lamp",
         "quantity": 2,
@@ -217,6 +244,7 @@
     },
     {
         "order_id": 28,
+        "user_id": 128,
         "customer": "Hany",
         "product": "Ethernet Cable",
         "quantity": 6,
@@ -225,6 +253,7 @@
     },
     {
         "order_id": 29,
+        "user_id": 129,
         "customer": "Nadine",
         "product": "Cooling Fan",
         "quantity": 3,
@@ -233,6 +262,7 @@
     },
     {
         "order_id": 30,
+        "user_id": 130,
         "customer": "Adel",
         "product": "Graphics Tablet",
         "quantity": 1,
@@ -241,6 +271,7 @@
     },
     {
         "order_id": 31,
+        "user_id": 131,
         "customer": "Ramy",
         "product": "Smart TV",
         "quantity": 1,
@@ -249,6 +280,7 @@
     },
     {
         "order_id": 32,
+        "user_id": 132,
         "customer": "Nourhan",
         "product": "Bluetooth Speaker",
         "quantity": 2,
@@ -257,6 +289,7 @@
     },
     {
         "order_id": 33,
+        "user_id": 133,
         "customer": "Hossam",
         "product": "Wireless Mouse",
         "quantity": 1,
@@ -265,6 +298,7 @@
     },
     {
         "order_id": 34,
+        "user_id": 134,
         "customer": "Farah",
         "product": "Laptop Stand",
         "quantity": 2,
@@ -273,6 +307,7 @@
     },
     {
         "order_id": 35,
+        "user_id": 135,
         "customer": "Sherif",
         "product": "Mechanical Keyboard",
         "quantity": 1,
@@ -281,6 +316,7 @@
     },
     {
         "order_id": 36,
+        "user_id": 136,
         "customer": "Jana",
         "product": "Gaming Mouse",
         "quantity": 1,
@@ -289,6 +325,7 @@
     },
     {
         "order_id": 37,
+        "user_id": 137,
         "customer": "Wael",
         "product": "Network Switch",
         "quantity": 1,
@@ -297,6 +334,7 @@
     },
     {
         "order_id": 38,
+        "user_id": 138,
         "customer": "Asmaa",
         "product": "USB Hub",
         "quantity": 3,
@@ -305,6 +343,7 @@
     },
     {
         "order_id": 39,
+        "user_id": 139,
         "customer": "Bassem",
         "product": "Laptop Bag",
         "quantity": 1,
@@ -313,6 +352,7 @@
     },
     {
         "order_id": 40,
+        "user_id": 140,
         "customer": "Hager",
         "product": "Desk Microphone",
         "quantity": 1,
@@ -321,6 +361,7 @@
     },
     {
         "order_id": 41,
+        "user_id": 101,
         "customer": "Tariq",
         "product": "HDMI Cable",
         "quantity": 4,
@@ -329,6 +370,7 @@
     },
     {
         "order_id": 42,
+        "user_id": 102,
         "customer": "Rasha",
         "product": "Ring Light",
         "quantity": 1,
@@ -337,6 +379,7 @@
     },
     {
         "order_id": 43,
+        "user_id": 103,
         "customer": "Islam",
         "product": "Smartphone",
         "quantity": 1,
@@ -345,6 +388,7 @@
     },
     {
         "order_id": 44,
+        "user_id": 104,
         "customer": "Doaa",
         "product": "Tablet Cover",
         "quantity": 2,
@@ -353,6 +397,7 @@
     },
     {
         "order_id": 45,
+        "user_id": 105,
         "customer": "Maged",
         "product": "Portable SSD",
         "quantity": 1,
@@ -361,6 +406,7 @@
     },
     {
         "order_id": 46,
+        "user_id": 106,
         "customer": "Ghada",
         "product": "Fitness Tracker",
         "quantity": 1,
@@ -369,6 +415,7 @@
     },
     {
         "order_id": 47,
+        "user_id": 107,
         "customer": "Saad",
         "product": "Gaming Monitor",
         "quantity": 1,
@@ -377,6 +424,7 @@
     },
     {
         "order_id": 48,
+        "user_id": 108,
         "customer": "Habiba",
         "product": "Stylus Pen",
         "quantity": 2,
@@ -385,6 +433,7 @@
     },
     {
         "order_id": 49,
+        "user_id": 109,
         "customer": "Yassin",
         "product": "Wireless Charger",
         "quantity": 3,
@@ -393,90 +442,11 @@
     },
     {
         "order_id": 50,
+        "user_id": 110,
         "customer": "Nermin",
         "product": "LED Monitor",
         "quantity": 1,
         "price": 320,
         "timestamp": "2026-05-23 10:49:00"
-    },
-    {
-        "order_id": 51,
-        "customer": "Fouad",
-        "product": "Desktop PC",
-        "quantity": 1,
-        "price": 2000,
-        "timestamp": "2026-05-23 10:50:00"
-    },
-    {
-        "order_id": 52,
-        "customer": "Salim",
-        "product": "Gaming Headset",
-        "quantity": 2,
-        "price": 140,
-        "timestamp": "2026-05-23 10:51:00"
-    },
-    {
-        "order_id": 53,
-        "customer": "Mira",
-        "product": "Camera Lens",
-        "quantity": 1,
-        "price": 780,
-        "timestamp": "2026-05-23 10:52:00"
-    },
-    {
-        "order_id": 54,
-        "customer": "Kareem",
-        "product": "Phone Tripod",
-        "quantity": 1,
-        "price": 65,
-        "timestamp": "2026-05-23 10:53:00"
-    },
-    {
-        "order_id": 55,
-        "customer": "Lina",
-        "product": "Smart Doorbell",
-        "quantity": 1,
-        "price": 250,
-        "timestamp": "2026-05-23 10:54:00"
-    },
-    {
-        "order_id": 56,
-        "customer": "Hazem",
-        "product": "WiFi Extender",
-        "quantity": 2,
-        "price": 80,
-        "timestamp": "2026-05-23 10:55:00"
-    },
-    {
-        "order_id": 57,
-        "customer": "Rim",
-        "product": "Portable Monitor",
-        "quantity": 1,
-        "price": 410,
-        "timestamp": "2026-05-23 10:56:00"
-    },
-    {
-        "order_id": 58,
-        "customer": "Adham",
-        "product": "Noise Cancelling Earbuds",
-        "quantity": 1,
-        "price": 230,
-        "timestamp": "2026-05-23 10:57:00"
-    },
-    {
-        "order_id": 59,
-        "customer": "Malak",
-        "product": "Action Camera",
-        "quantity": 1,
-        "price": 560,
-        "timestamp": "2026-05-23 10:58:00"
-    },
-    {
-        "order_id": 60,
-        "customer": "Ziad",
-        "product": "Smart Home Hub",
-        "quantity": 1,
-        "price": 340,
-        "timestamp": "2026-05-23 10:59:00"
     }
 ]
